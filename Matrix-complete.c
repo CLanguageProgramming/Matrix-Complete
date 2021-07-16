@@ -289,7 +289,7 @@ int main()
                     printf("Product of the matrix:->\n");
                     for(i=0; i <= row- 1;i++)
                     {
-                        for(j=0;j <= col- 1;j++)
+                        for(j=0;j <= col1- 1;j++)
                         {
                             printf("%d ",c[i][j]);
                         }
